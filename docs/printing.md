@@ -1,8 +1,8 @@
 # Print settings
 
-The chassis requires a 261x261 bed. In discord is a usermod available for 250x250 beds. For smaller beds the chassis needs to be splitted or you can order a chassis from [my future webshop?]().
+The chassis requires a 261x261 bed. In discord is a usermod available for 250x250 beds. For smaller beds the chassis needs to be splitted (a discord member has already done that too) [or you can order a chassis from my future webshop?]().
 
-Everything must be printed with 8 walls and 100% infill. Abrasive filaments are not weak but break faster. On the other hand abrasive TPU is more rigid. More testing needs to be done to know what is best.
+Everything must be printed with 8 walls and 100% infill. Abrasive filaments are not weak but break faster and have worse layer adhesion. On the other hand abrasive TPU is stiffer. More testing needs to be done to know what is best.
 
 Make sure to print [this](/Calibration.stl) first for every filament to make sure your shrinkage is fine. As a reference: my TPU shrinkage is 99.8% and for ABS shrinkage 99.3%.
 
@@ -23,7 +23,6 @@ Part | Number | Support
 Link | 1 | Yes
 MotorPlate | 1 | Yes
 DiffCase | 2 | No
-DiffShims? | 2? | No
 BellCranks | 1 | No
 ServoMount | 1 | No
 
