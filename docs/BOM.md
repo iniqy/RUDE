@@ -84,3 +84,6 @@ Part | Name | QTY | Notes
 --- | --- | --- | ---
 M2x10mm Socket Head Screws |DIN 912; ISO 4762 |10 |bolt 2 body parts together
 M2 Nylon-Insert Locknuts |DIN 985; ISO 10511 |10 |bolt 2 body parts together
+M8x60 bolt full thread |  |1 | Full Thread! To bolt rear body part to car. https://www.aliexpress.com/item/1005002394772396.html
+M8 flange lock nut |  |1 | https://www.aliexpress.com/item/1005004106195109.html
+M8 wing nut |  |1 | https://www.aliexpress.com/item/1005002632277186.html
