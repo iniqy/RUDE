@@ -17,11 +17,9 @@ Always dry your new TPU spool for a few hours in the oven at 60C. It's always we
 
 ## PC
 
-PET is a good alternative (not PETG). PA12 is suspected to be a good alternative. PA6 may suffice too.
+PA12 is suspected to be a good alternative. PA6 may suffice too. [For motorplate & bellcranks, ABS/ASA are fine too, but they are too weak for link/diffcase/servomount.]
 
 100% infill!
-
-ABS/ASA are not recommended anymore because RUDE receives a lot harsh treatment and diffs are receiving a lot of forces, causing them to crack in places and your car to make noises everywhere [damaging metal parts].
 
 Part | Number | Support
 --- | --- | ---
