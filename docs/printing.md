@@ -2,7 +2,7 @@
 
 The chassis requires a 261x261 bed. In discord is a usermod available for 250x250 beds (cut corners) and another mod for 182x182 beds (split chassis).
 
-Everything must be printed with 8 walls and 100% infill. Abrasive filaments are not weak but break faster and have worse layer adhesion. On the other hand abrasive TPU is stiffer. More testing needs to be done to know what is best.
+Everything must be printed with 8 walls and 100% infill. Abrasive filaments are not weak but break faster and have worse layer adhesion. On the other hand abrasive TPU could be stiffer. More testing needs to be done to know what is best.
 
 ### Calibration
 
