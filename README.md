@@ -2,9 +2,9 @@
 
 # Robak Unkillable Demon Edition
 
-![6](docs/RUDE.jpg)
+![3](docs/RUDE.jpg)
 
-[![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/Cc8tsbZAE3)
+[![Join the Discord](https://discord.com/api/guilds/1180485423299043368/widget.png?style=banner2)](https://discord.gg/Cc8tsbZAE3)
 
 
 An open-source RC car based on [Robak v2.2](https://github.com/robaki-dev/robak/).
