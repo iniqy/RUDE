@@ -17,7 +17,7 @@ Always dry your new TPU spool for a few hours in the oven at 60C. It's always we
 
 ## PC
 
-PA12 is suspected to be a good alternative. PA6 may suffice too. [For motorplate & bellcranks, ABS/ASA are fine too, but they are too weak for link/diffcase/servomount.]
+[For motorplate & bellcranks, ABS/ASA are fine too, but they are too weak for link/diffcase/servomount. PA deforms so Nylon is disrecommended.]
 
 100% infill!
 
@@ -52,7 +52,7 @@ Use a HSP02016_insert if your middle axis can (almost) escape. That one doesn't 
 
 ## TPU
 
-3 walls and 10-40% infill (depends on hardness of your TPU, but a soft brace can absorb some impact).
+2/3 walls and 10-40% infill (depends on hardness of your TPU, but a soft brace can absorb some impact).
 
 Part | Number | Support
 --- | --- | ---

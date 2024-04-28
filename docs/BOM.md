@@ -1,6 +1,6 @@
 # BOM
 
-Special attention to HSP 102011 and 2x190mm + 4x66mm ⌀5mm rods which are not included in stock Robak BOM. Also additional SHCS M3 + hex-nuts and 2x M5x40 bolts + square nuts are necessary if you come from Robak.
+Special attention to HSP 102011 and 2x190mm + 4x66mm ⌀5mm steel rods which are not included in stock Robak BOM. Also additional SHCS M3 + hex-nuts and 2x M5x40 bolts + square nuts are necessary if you come from Robak.
 
 This car can handle much more power than Robak and is also heavier, I don't advise anything below 3S.
 
@@ -10,10 +10,10 @@ Part | Name | QTY | Notes
 --- | --- | --- | ---
 ESC + motor | 36xx or 42xx up to 82mm length | 1 | F.e. 3660 = 36mm diameter & 60mm length, 4278 = 42mm diameter & 78mm length.
 ESC + motor | Hobbywing Ezrun MAX10 3665SD G3 2400KV + G2 140A ESC | 1 | Recommended. The newest Ezrun MAX8 & MAX10 sensored series are great. Get your Hobbywing electronics at a local shop, because aliexpress doesn't do warranty!
-Battery for recommended MAX10 combo | 4S 4700mAh | 1 | https://aliexpress.com/item/1005003343658769.html
+Battery for recommended MAX10 combo | 4S 4700mAh | 1 | https://s.click.aliexpress.com/e/_Dm7oLEB
 RX + TX | Dumbo RC X6 | 1 |long range; easy to setup
-Servo | DS3240-180 or any other 180 deg variant | 1 | https://aliexpress.com/item/1943129663.html
-1:8 Motor | Ysido 4274 | 1 | Cheap but overpowered https://aliexpress.com/item/1005005946742556.html NOTE: you need a 1:8 ESC for this. [has 6.5mm banana plugs instead of 4mm]
+Servo | DS3240-180 or any other 180 deg variant | 1 | https://s.click.aliexpress.com/e/_DnBFawT
+1:8 Motor | Ysido 4274 | 1 | Cheap but overpowered https://s.click.aliexpress.com/e/_DmBblkx NOTE: you need a 1:8 ESC for this. [has 6.5mm banana plugs instead of 4mm]
 1:8 ESC | Hobbywing Quicrun 8BL150 | 1 | I use this in combination with the Ysido. Get your Hobbywing electronics at a local shop, because aliexpress doesn't do warranty!
 
 ## HSP
@@ -21,11 +21,11 @@ Servo | DS3240-180 or any other 180 deg variant | 1 | https://aliexpress.com/ite
 Part | Name | QTY | Notes
 --- | --- | --- | ---
 steering links | HSP 102011 | 2 | different from stock Robak
-differential | HSP 02024 |2 |
+differential | HSP 02024 |2 | https://aliexpress.com/item/1178316591.html I recommend to get all your HSP parts from this store. Their quality seems to be superior. You can order, cancel payment, then ask seller to reduce the shipping costs.
 front gear | HSP 02030 |1 |
 rear gear | HSP 03015 |1 |e-clip shoud be included
 cvd | HSP 108015 |4 |2 types available; more info on robaki.dev
-wheel hex | HSP 122042 |4 |
+6mm wheel hex | HSP 122042 |4 | 6mm! https://s.click.aliexpress.com/e/_DnSrrOX
 cups | HSP 02016 |2 |
 servo link | HSP 02012 |1 |
 steering links | HSP 06016 |1 |one pair
@@ -55,9 +55,9 @@ big bearings |10x15x4mm | 2 |
 Part | Name | QTY | Notes
 --- | --- | --- | ---
 wheels | HSP 88005 | 4 | metal rims preferred since I have broken plastic rims before ( https://aliexpress.com/item/4000537479774.html ) [I haven't tried TPU wheels yet]
-shocks |INJORA Aluminum Shock Absorber 100mm |4 |https://www.aliexpress.com/item/1005004599082114.html
+shocks |INJORA Aluminum Shock Absorber 100mm |4 | https://s.click.aliexpress.com/e/_EQmCy8T
 battery straps |20mm width; 200mm long |2 |max width 25mm
-DIY hinge pins |⌀5mm steel rod | 2x190mm + 4x66mm | https://aliexpress.com/item/1005005041338002.html buying 400mm rods is best value [different from stock Robak]
+DIY hinge pins |⌀5mm steel rod | 2x190mm + 4x66mm | https://s.click.aliexpress.com/e/_opSq9ew buying 500mm rods is best value [different from stock Robak]
 sillicone oil (front & rear shocks) | 800 cSt | 20ml | anything 500-1000 cSt will work, but this car's mass can be >3kg so heavier oils preferred
 sillicone oil (diffs) |80.000 cSt | 20ml |50.000-100.000 cSt will work
 thread-locking fluid | | 20ml | Medium strength (blue)
@@ -84,6 +84,6 @@ Part | Name | QTY | Notes
 --- | --- | --- | ---
 M2x10mm Socket Head Screws |DIN 912; ISO 4762 |10 |bolt 2 body parts together
 M2 Nylon-Insert Locknuts |DIN 985; ISO 10511 |10 |bolt 2 body parts together
-M8x60 bolt full thread |  |1 | Full Thread! To bolt rear body part to car. https://www.aliexpress.com/item/1005002394772396.html
-M8 flange lock nut |  |1 | https://www.aliexpress.com/item/1005004106195109.html
-M8 wing nut |  |1 | https://www.aliexpress.com/item/1005002632277186.html
+M8x60 bolt full thread |  |1 | Full Thread! To bolt rear body part to car. https://s.click.aliexpress.com/e/_ok4w0Jg
+M8 flange lock nut |  |1 | https://s.click.aliexpress.com/e/_Ew4tm55
+M8 wing nut |  |1 | https://s.click.aliexpress.com/e/_EwzpS4j

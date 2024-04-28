@@ -2,7 +2,9 @@
 
 At least loctite all grub screws + bolts going in the HSP steering links. Arms should be able to move freely, don't tighten the M3 bolts that function as joints.
 
-[Info document](https://docs.google.com/presentation/d/1HM81BQhkKSFr_ZRTIKP950ZJcJBYzyWOIWn2UdTEApA/edit?usp=sharing) not everything is relevant for RUDE but its an informative read. RUDE uses new differential (diff) housings that should be a perfect fit for every HSP 02024.
+[Info document](https://docs.google.com/presentation/d/1HM81BQhkKSFr_ZRTIKP950ZJcJBYzyWOIWn2UdTEApA/edit?usp=sharing) not everything is relevant for RUDE but its an informative read. RUDE uses new differential (diff) housings that should be a perfect fit for every good HSP 02024. There seems to be quite a quality difference between AliExpress vendors. All HSP parts from the store recommended in the BOM seems to last much longer. If your HSP diffs don't fit in the diff case well, consider buying theirs.
+
+Install 190mm ⌀5mm steel rods through the two ⌀5mm holes in the sides of the chassis.
 
 To make sure your diffs last as long as possible fill the inside ~80% with diff oil [50k-100k Cst]. Image below shows how it looks from factory (full of air, which is bad):
 ![inside_diff.jpg](inside_diff.jpg)
