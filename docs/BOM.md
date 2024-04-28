@@ -33,8 +33,8 @@ drive shaft | HSP 04003 |1 |
 spur gear | HSP 11184 |1 |
 pinion gear | HSP 11184 |1 | 29T ⌀3.175/5mm, check shaft of your motor. For weaker motors pick 21T.
 ball head screw | HSP 02038 |4 |for steering
-small bearings |5x10x4mm | 5 | already subtracted the bearings that come with hsp parts
-big bearings |10x15x4mm | 4 | 
+small bearings |5x10x4mm | 5pcs | https://s.click.aliexpress.com/e/_Ey7tCg3
+big bearings |10x15x4mm | 4pcs | https://s.click.aliexpress.com/e/_oCNvIsS
 
 ### HSP must-have spares
 
