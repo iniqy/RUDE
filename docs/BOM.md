@@ -5,13 +5,13 @@ Special attention to HSP 102011 and 2x190mm + 4x66mm ⌀5mm steel rods which are
 This car can handle much more power than Robak and is also heavier, I don't advise anything below 3S.
 
 ## Electronics
-Top On Sale Product Recommendations!;DUMBORC DDF-350 10CH RC Remote Controller 2.4Ghz Digital Radio Transmitter with HD Screen Gyro Receiver for Car Tank Boat Robot;Original price: EUR 106.36;Now price: EUR 65.94;Click&Buy: https://s.click.aliexpress.com/e/_mPnNqZM 
+
 Part | Name | QTY | Notes
 --- | --- | --- | ---
 ESC + motor | 36xx or 42xx up to 82mm length | 1 | F.e. 3660 = 36mm diameter & 60mm length, 4278 = 42mm diameter & 78mm length.
 ESC + motor | Hobbywing Ezrun MAX10 3665SD G3 2400KV + G2 140A ESC | 1 | Recommended. The newest Ezrun MAX8 & MAX10 sensored series are great. Get your Hobbywing electronics at a local shop, because aliexpress doesn't do warranty!
 Battery for recommended MAX10 combo | 4S 4700mAh | 1 | https://s.click.aliexpress.com/e/_Dm7oLEB
-RX + TX | DumboRC DDF-350 | 1 | screen, lights/indicators support and with gyro for $2 extra https://s.click.aliexpress.com/e/_mPnNqZM
+RX + TX | DumboRC DDF-350 | X10FG or X6DCG | screen, lights/indicators support and with gyro https://s.click.aliexpress.com/e/_oCQUDqW (select M2 for metal steering wheel)
 Servo | DS3240-180 or any other 180 deg variant | 1 | https://s.click.aliexpress.com/e/_DnBFawT
 1:8 Motor | Ysido 4274 | 1 | Cheap but overpowered https://s.click.aliexpress.com/e/_DmBblkx NOTE: you need a 1:8 ESC for this. [has 6.5mm banana plugs instead of 4mm]
 1:8 ESC | Hobbywing Quicrun 8BL150 | 1 | I use this in combination with the Ysido. Get your Hobbywing electronics at a local shop, because aliexpress doesn't do warranty!
@@ -54,15 +54,15 @@ big bearings |10x15x4mm | 2 |
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-wheels | HSP 88005 | 4 | metal rims preferred since I have broken plastic rims before ( https://aliexpress.com/item/4000537479774.html ) [I haven't tried TPU wheels yet]
+wheels | HSP 88005 | 4 | metal rims preferred since I have broken plastic rims before https://aliexpress.com/item/4000537479774.html [I haven't tried TPU wheels yet]
 shocks |INJORA Aluminum Shock Absorber 100mm |4 | https://s.click.aliexpress.com/e/_EQmCy8T
 battery straps |20mm width; 200mm long |2 |max width 25mm
 DIY hinge pins |⌀5mm steel rod | 2x190mm + 4x66mm | https://s.click.aliexpress.com/e/_opSq9ew buying 500mm rods is best value [different from stock Robak]
 sillicone oil (front & rear shocks) | 1000+ cSt | 20ml | this car's mass is >3kg so heavier oils preferred https://s.click.aliexpress.com/e/_ooUaPnU (very cheap, I'd recommend to buy both 2K and 1K)
 sillicone oil (diffs) |80.000 cSt | 20ml |50.000-100.000 cSt will work https://s.click.aliexpress.com/e/_mKMass6 (from local shop is likely cheaper)
-thread-locking fluid | | 20ml | Medium strength (blue)
-lithium grease | | 20ml |or any other grease for gears
-CA glue / ZAP-RT |superglue |20ml |tire glue (ZAP-RT for metal rims)
+thread-locking fluid | | 10ml | Medium strength blue (cheap option: https://s.click.aliexpress.com/e/_mtYoqXC )
+lithium grease | | 50ml |or any other grease for gears
+CA glue / ZAP-RT | power glue | 20ml |tire glue (ZAP-RT for metal rims)
 
 ## Bolts
 
@@ -87,3 +87,10 @@ M2 Nylon-Insert Locknuts |DIN 985; ISO 10511 |10 |bolt 2 body parts together htt
 M8x60 bolt full thread |  |1 | Full Thread! To bolt rear body part to car. https://s.click.aliexpress.com/e/_EJMfISf 
 M8 flange lock nut |  |1 | https://s.click.aliexpress.com/e/_Ew4tm55
 M8 wing nut |  |1 | https://s.click.aliexpress.com/e/_EwzpS4j
+
+## Tools
+
+Part | Name | QTY | Notes
+--- | --- | --- | ---
+Worx electric screwdriver | WX242 | 1 | https://s.click.aliexpress.com/e/_msPBlN0 
+Allen bits | H2 | 2 | https://s.click.aliexpress.com/e/_EuJdN3h or https://s.click.aliexpress.com/e/_msWyGcO 
