@@ -9,12 +9,14 @@ This car can handle much more power than Robak and is also heavier, I don't advi
 Part | Name | QTY | Notes
 --- | --- | --- | ---
 ESC + motor | 36xx or 42xx up to 82mm length | 1 | F.e. 3660 = 36mm diameter & 60mm length, 4278 = 42mm diameter & 78mm length.
-ESC + motor | Hobbywing Ezrun MAX10 3665SD G3 2400KV + G2 140A ESC | 1 | Recommended. The newest Ezrun MAX8 & MAX10 sensored series are great. Get your Hobbywing electronics at a local shop, because aliexpress doesn't do warranty!
+ESC + motor | Hobbywing Ezrun MAX10 3665SD G3 2400KV + G2 140A ESC | 1 | Recommended. The newest Ezrun MAX10 sensored series is great. Get your Hobbywing electronics at a local shop, because aliexpress doesn't do warranty!
 Battery for recommended MAX10 combo | 4S 4700mAh | 1 | https://s.click.aliexpress.com/e/_Dm7oLEB
 RX + TX | DumboRC DDF-350 | X10FG or X6DCG | screen, lights/indicators support and with gyro https://s.click.aliexpress.com/e/_oCQUDqW (select M2 for metal steering wheel)
 Servo | DS3240-180 or any other 180 deg variant | 1 | https://s.click.aliexpress.com/e/_DnBFawT
 1:8 Motor | Ysido 4274 | 1 | Cheap but overpowered https://s.click.aliexpress.com/e/_DmBblkx NOTE: you need a 1:8 ESC for this. [has 6.5mm banana plugs instead of 4mm]
 1:8 ESC | Hobbywing Quicrun 8BL150 | 1 | I use this in combination with the Ysido. Get your Hobbywing electronics at a local shop, because aliexpress doesn't do warranty!
+
+NOTE: 1:8 motors are at least twice as powerful as 1:10 motors and too much for RUDE which is a 1:10 truggy. One user tried the Ezrun MAX8 Sensored series and it kept somersaulting with just 4S with acceleration and throttle limited. Too much power causes the metal HSP parts to fail. I personally use the Ysido 2200 kV on 4S without issues though.
 
 ## HSP
 

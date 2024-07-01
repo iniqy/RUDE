@@ -28,8 +28,11 @@ MotorPlate | 1 | Yes
 DiffCase | 2 | No
 BellCranks | 1 | No
 ServoMount | 1 | No
+CarrierHubF | 2 | No
 
 ServoMount may need adjustments for a specific ESC. Ezrun MAX10 and Quicrun 8BL150 are supported with bolted mounts. [Unverified but I suspect that Ezrun MAX8 has same mounting pattern as 8BL150 and that the Quicrun 10BL120 has same mounting pattern as MAX10.] Please share your custom mounts on discord.
+
+CarrierHubF was previously recommended to print in TPU 98A or harder, but this seems to impact steering because its too soft. In PC its very rigid and seems to hold up well.
 
 
 ## TPU 98A or harder
@@ -41,7 +44,6 @@ Part | Number | Support
 Chassis | 1 | No
 Arms | 1 | No
 UpperArms | 1 | No
-CarrierHubF | 2 | No
 CarrierHubR | 2 | No
 TopDeck | 1 | No
 Tower | 2 | No
