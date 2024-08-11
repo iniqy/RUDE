@@ -1,8 +1,12 @@
+## WARNING: v1.1 is experimental at this point! Print at your own risk! For an upgrade from v1.0 to v1.1 the six 5mm rods should be replaced by only 2x344 ⌀5mm steel rods.
+
+
 # BOM
 
 Special attention to HSP 102011 and 2x190mm + 4x66mm ⌀5mm steel rods which are not included in stock Robak BOM. Also additional SHCS M3 + hex-nuts and 2x M5x40 bolts + square nuts are necessary if you come from Robak.
 
-This car can handle much more power than Robak and is also heavier, I don't advise anything below 3S.
+This car can handle more power than Robak and is also heavier, I don't advise anything below 3S.
+However be careful with 4S and higher since the HSP differentials were not designed with powerful cars in mind. A precisely printed diffcase with a quality diff from the supplier I recommend below are key. Buy spares.
 
 ## Electronics
 
@@ -33,10 +37,10 @@ servo link | HSP 02012 |1 |
 steering links | HSP 06016 |1 |one pair
 drive shaft | HSP 04003 |1 |
 spur gear | HSP 11184 |1 |
-pinion gear | HSP 11184 |1 | 29T ⌀3.175/5mm, check shaft of your motor. For weaker motors pick 21T.
+pinion gear | HSP 11184 |1 | 21-29T ⌀3.175/5mm, check shaft of your motor. For weaker motors pick 21T.
 ball head screw | HSP 02038 |4 |for steering
-small bearings |5x10x4mm | 5pcs | https://s.click.aliexpress.com/e/_Ey7tCg3
-big bearings |10x15x4mm | 4pcs | https://s.click.aliexpress.com/e/_oCNvIsS
+small bearings |5x10x4mm | 9pcs | https://s.click.aliexpress.com/e/_Ey7tCg3
+big bearings |10x15x4mm | 12pcs | https://s.click.aliexpress.com/e/_oCNvIsS
 
 ### HSP must-have spares
 
@@ -46,17 +50,19 @@ differential | HSP 02024 | 2 |
 front gear | HSP 02030 |1 |
 rear gear | HSP 03015 |1 |e-clip shoud be included
 cups | HSP 02016 |1 |
+cvd | HSP 108015 |2 |
+drive shaft | HSP 04003 |1 |
 pinion gear | HSP 11184 |1 |⌀3.175/5mm, check shaft of your motor
 grub screws | HSP 02099 |1 |
 main gear pin | HSP 08027 |1 |
-small bearings |5x10x4mm | 2 | 
-big bearings |10x15x4mm | 2 | 
+small bearings |5x10x4mm | 4 | 
+big bearings |10x15x4mm | 4 | 
 
 ## Other
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-wheels | HSP 88005 | 4 | metal rims preferred since I have broken plastic rims before https://aliexpress.com/item/4000537479774.html [I haven't tried TPU wheels yet]
+wheels | HSP 88005 | 4 | metal rims preferred since I have broken plastic rims before https://aliexpress.com/item/4000537479774.html [I haven't tried TPU wheels yet] There also seem to be fitting Traxxas wheels that are made of stronger plastic, ask in the Discord for more info.
 shocks |INJORA Aluminum Shock Absorber 100mm |4 | https://s.click.aliexpress.com/e/_EQmCy8T
 battery straps |20mm width; 200mm long |2 |max width 25mm
 DIY hinge pins |⌀5mm steel rod | 2x190mm + 4x66mm | https://s.click.aliexpress.com/e/_opSq9ew buying 500mm rods is best value [different from stock Robak]

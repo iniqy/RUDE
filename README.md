@@ -11,7 +11,14 @@ An open-source RC car based on [Robak v2.2](https://github.com/robaki-dev/robak/
 
 The most resilient RC car on the planet! More driving and less repairing. This car only stops when your battery is empty. If you break this car after flying out of your apartment window I failed.
 
-Select your own hardware with the BOM as your guide. All plastic parts can be 3D printed or bought from [my future webshop?]() (if you want to buy RUDE car parts, ask me in discord for now).
+Select your own hardware with the BOM as your guide. All plastic parts can be 3D printed.
+
+
+
+### 11-8-2024 v1.1 UPDATE
+V1.1 is now included in the STEP files, this is still experimental and hasn't been driven yet. It should have superior performance/handling due to lower center of mass. Shocks can travel a bit further, hopefully resulting in softer body slams after high jumps. It is also more rigid which makes the drivetrain less prone to damage due to acrobatics. See BOM/Printing for things to swap if you wish to upgrade.
+
+
 
 [Printing instructions](docs/printing.md)
 

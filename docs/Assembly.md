@@ -1,4 +1,6 @@
-## Assembly
+## WARNING: v1.1 is experimental at this point! Print at your own risk! For an upgrade from v1.0 to v1.1 the chassis, bellcranks and motorplate must be replaced. (Body can be saved for last.)
+
+# Assembly
 
 At least loctite all grub screws + bolts going in the HSP steering links. Arms should be able to move freely, don't tighten the M3 bolts that function as joints.
 

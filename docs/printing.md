@@ -1,3 +1,6 @@
+## WARNING: v1.1 is experimental at this point! Print at your own risk! For an upgrade from v1.0 to v1.1 the chassis, bellcranks and motorplate must be replaced. (Body can be saved for last.)
+
+
 # Print settings
 
 The chassis requires a 261x261 bed. In discord is a usermod available for 250x250 beds (cut corners) and another mod for 182x182 beds (split chassis).
@@ -71,5 +74,5 @@ Avoid materials with weak layer adhesion. ASA/ABS bodies crack easily along the 
 
 Part | Number | Support
 --- | --- | ---
-BodyF_Clip | 1 | No
+BodyF_Clip (only v1.0) | 1 | No
 Body | 1 | No
