@@ -7,6 +7,11 @@ If you come from Robak, you need HSP 102011 and 2x344 ⌀5mm steel rods and addi
 This car can handle more power than Robak and is also heavier, I don't advise anything below 3S.
 However be careful with 4S and higher since the HSP differentials were not designed with such powerful cars in mind. A precisely printed diffcase with a quality diff from the supplier I recommend below are key. Buy spares.
 
+## Filament
+
+98A / 60+D TPU from anywhere. Azurefilm 98A TPU is good. On Amazon there is 64D TPU from kexcelled alternatively there is 72D TPU from extrudr.
+Not very useful for RUDE, but I use this super cheap quality filament for everything else (gridfinity etc.): https://s.click.aliexpress.com/e/_olmRVrv
+
 ## Electronics
 
 Part | Name | QTY | Notes
