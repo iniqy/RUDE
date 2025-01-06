@@ -62,6 +62,7 @@ grub screws | HSP 02099 |1 |
 main gear pin | HSP 08027 |1 |
 small bearings |5x10x4mm | 4 | 
 big bearings |10x15x4mm | 4 | 
+diff cups | HSP 02032 | 4 |
 
 ## Other
 
