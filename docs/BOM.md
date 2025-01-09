@@ -44,8 +44,8 @@ drive shaft | HSP 04003 |1 |
 spur gear | HSP 11184 |1 |
 pinion gear | HSP 11184 |1 | 21-29T ⌀3.175/5mm, check shaft of your motor. For weaker motors pick 21T.
 ball head screw | HSP 02038 |4 |for steering
-small bearings |5x10x4mm | 9pcs | https://s.click.aliexpress.com/e/_Ey7tCg3
-big bearings |10x15x4mm | 12pcs | https://s.click.aliexpress.com/e/_oCNvIsS
+small bearings |5x10x4mm | 9pcs | https://s.click.aliexpress.com/e/_oC5hRkd / https://s.click.aliexpress.com/e/_oC5hRkd SMR105RS (ceramic!)
+big bearings |10x15x4mm | 12pcs | https://s.click.aliexpress.com/e/_oFJ5Pg9
 
 ### HSP must-have spares
 
@@ -106,5 +106,5 @@ M8 wing nut |  |1 | https://s.click.aliexpress.com/e/_EwzpS4j
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-Worx electric screwdriver | WX242 | 1 | https://s.click.aliexpress.com/e/_msPBlN0 
+Worx electric screwdriver | WX242 | 1 | https://aliexpress.com/item/1005006025572712.html 
 Allen bits | H2 | 2 | https://s.click.aliexpress.com/e/_EuJdN3h or https://s.click.aliexpress.com/e/_msWyGcO 
