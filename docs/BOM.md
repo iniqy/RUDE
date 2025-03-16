@@ -1,8 +1,8 @@
 # BOM
 
-For an upgrade from RUDE v1.0 to v1.1 the only hardware changes are the six ⌀5mm rods which have been replaced by just two 344 ⌀5mm steel rods and the 2x M5x40 steering bolts have been replaced by 2x M5x30.
+For an upgrade from RUDE v1.0 to v1.1 the only hardware changes are the six ⌀5mm rods which have been replaced by just two 350 ⌀5mm steel rods and the 2x M5x40 steering bolts have been replaced by 2x M5x30.
 
-If you come from Robak, you need HSP 102011 and 2x344 ⌀5mm steel rods and additional SHCS M3 + hex-nuts and 2x M5x30 bolts + square nuts.
+If you come from Robak, you need HSP 102011 and 2x350 ⌀5mm steel rods and additional SHCS M3 + hex-nuts and 2x M5x30 bolts + square nuts.
 
 This car can handle more power than Robak and is also heavier, I don't advise anything below 3S.
 However be careful with 4S and higher since the HSP differentials were not designed with such powerful cars in mind. A precisely printed diffcase with a quality diff from the supplier I recommend below are key. Buy spares.
@@ -68,12 +68,12 @@ diff cups | HSP 02032 | 4 |
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-wheels | HSP 88005 | 4 | I have broken plastic rims before https://aliexpress.com/item/4000537437419.html but never metal ones https://aliexpress.com/item/4000537479774.html . There also seem to be fitting Traxxas wheels that are made of stronger plastic, ask in Discord for more info.
-shocks |INJORA Aluminum Shock Absorber 100mm |4 | https://s.click.aliexpress.com/e/_EQmCy8T
+wheels | HSP 88005 | 4 | I recommend cheap plastic rims https://aliexpress.com/item/4000537437419.html . They break but are cheap to replace. There's also metal ones https://aliexpress.com/item/4000537479774.html they don't break but will transfer impacts to CVDs which then wobble, hence I recommend the 'weak' plastic rims. There also are fitting Traxxas wheels TRX6792 that are made of stronger plastic and tires are already glued to rim.
+shocks |INJORA Aluminum Shock Absorber 100mm | 4 | https://s.click.aliexpress.com/e/_EQmCy8T comes with two springs per shock, use them all, intertwined
 battery straps |20mm width; 200mm long |2 |max width 25mm
-DIY hinge pins |⌀5mm steel rod | 2x344mm | https://s.click.aliexpress.com/e/_opSq9ew buying 500mm rods is best value (v1.0 needs 2x190mm + 4x66mm ⌀5mm steel rods)
-sillicone oil (front & rear shocks) | 2000 cSt | 20ml | this car's mass is >3kg so heavier oils preferred https://s.click.aliexpress.com/e/_ooUaPnU (very cheap)
-sillicone oil (diffs) |80.000 cSt | 20ml |50.000-100.000 cSt will work https://s.click.aliexpress.com/e/_mKMass6 (from local shop is likely cheaper)
+DIY hinge pins |⌀5mm steel rod | 2x350mm | https://s.click.aliexpress.com/e/_opSq9ew buying 500mm rods is best value (v1.0 needs 2x190mm + 4x66mm ⌀5mm steel rods)
+silicone oil (front & rear shocks) | 2000 cSt | 20ml | this car's mass is >3kg so heavier oils preferred https://s.click.aliexpress.com/e/_ooUaPnU (very cheap)
+silicone oil (diffs) |80.000 cSt | 20ml |50.000-100.000 cSt will work https://s.click.aliexpress.com/e/_mKMass6 (from local shop is likely cheaper)
 thread-locking fluid | | 10ml | Medium strength blue (cheap option: https://s.click.aliexpress.com/e/_mtYoqXC )
 lithium grease | | 50ml |or any other grease for gears
 CA glue / ZAP-RT | power glue | 20ml |tire glue (ZAP-RT for metal rims)

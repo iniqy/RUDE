@@ -4,7 +4,7 @@ For an upgrade from v1.0 to v1.1 the chassis, bellcranks and motorplate must be 
 
 At least loctite all grub screws + bolts going in the HSP steering links. Arms should be able to move freely, don't tighten the M3 bolts that function as joints.
 
-Install 344mm ⌀5mm steel rods through the two ⌀5mm holes in the sides of the chassis AFTER the two M5x30 bolts through the bellcranks and topdeck are inserted, use M5 square nuts in the bottom slots. The bell cranks from v1.1 only need one 10x15x4 bearing instead of two.
+Install 350mm ⌀5mm steel rods through the two ⌀5mm holes in the sides of the chassis AFTER the two M5x30 bolts through the bellcranks and topdeck are inserted, use M5 square nuts in the bottom slots. The bell cranks from v1.1 only need one 10x15x4 bearing instead of two.
 ![steering_square_nuts.jpg](steering_square_nuts.jpg)
 
 To make sure your diffs last as long as possible fill the inside ~80% with diff oil [50k-100k Cst]. Image below shows how it looks from factory (full of air, which is bad):
