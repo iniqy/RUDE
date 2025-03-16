@@ -71,7 +71,7 @@ Part | Name | QTY | Notes
 wheels | HSP 88005 | 4 | I recommend cheap plastic rims https://aliexpress.com/item/4000537437419.html . They break but are cheap to replace. There's also metal ones https://aliexpress.com/item/4000537479774.html they don't break but will transfer impacts to CVDs which then wobble, hence I recommend the 'weak' plastic rims. There also are fitting Traxxas wheels TRX6792 that are made of stronger plastic and tires are already glued to rim.
 shocks |INJORA Aluminum Shock Absorber 100mm | 4 | https://s.click.aliexpress.com/e/_EQmCy8T comes with two springs per shock, use them all, intertwined
 battery straps |20mm width; 200mm long |2 |max width 25mm
-DIY hinge pins |⌀5mm steel rod | 2x350mm | https://s.click.aliexpress.com/e/_opSq9ew buying 500mm rods is best value (v1.0 needs 2x190mm + 4x66mm ⌀5mm steel rods)
+Steel shafts |⌀5mm steel rod | 2x350mm | https://s.click.aliexpress.com/e/_ooYsAH1 (v1.0 needed 2x190mm + 4x66mm ⌀5mm steel rods)
 silicone oil (front & rear shocks) | 2000 cSt | 20ml | this car's mass is >3kg so heavier oils preferred https://s.click.aliexpress.com/e/_ooUaPnU (very cheap)
 silicone oil (diffs) |80.000 cSt | 20ml |50.000-100.000 cSt will work https://s.click.aliexpress.com/e/_mKMass6 (from local shop is likely cheaper)
 thread-locking fluid | | 10ml | Medium strength blue (cheap option: https://s.click.aliexpress.com/e/_mtYoqXC )
@@ -82,9 +82,10 @@ CA glue / ZAP-RT | power glue | 20ml |tire glue (ZAP-RT for metal rims)
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-M5 Socket Head Screws | M5 SHCS 2x30 | | https://s.click.aliexpress.com/e/_mNYNVTc
+M5 Socket Head Screws | M5 SHCS 2x30mm | | https://s.click.aliexpress.com/e/_mNYNVTc
 M5 Square Nuts  | | 2 | https://s.click.aliexpress.com/e/_mKvxiiA
-M3 Socket Head Screws | M3 SHCS 8x30 4x20 4x16 4x12 1x6 | | https://s.click.aliexpress.com/e/_mNYNVTc
+M3 Socket Head Screws | M3 SHCS 4x30 4x20 4x16 4x12 1x6mm | | https://s.click.aliexpress.com/e/_mNYNVTc
+M3 Titanium SHCS | DIN912 | M3 SHCS 4x30mm | https://s.click.aliexpress.com/e/_oCheVJZ for top bolts for shock mounting titanium is recommended to prevent bends
 M3 Flat Head Screws | M3 FHCS 30/25/20/16/12mm |20pcs each | https://s.click.aliexpress.com/e/_ontwkaW
 M3 Thin Square Nuts  |DIN 562 |50 |ht. 1.8mm https://s.click.aliexpress.com/e/_mKvxiiA
 M3 Nylon-Insert Locknuts |DIN 985; ISO 10511 |12 | for arm hinges https://s.click.aliexpress.com/e/_mKRqmKW
