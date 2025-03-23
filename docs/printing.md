@@ -25,7 +25,7 @@ Always dry your new TPU spool for a few hours in the oven at 60C. It's always we
 
 Part | Number | Support
 --- | --- | ---
-Link | 1 | Yes
+SteeringLink | 1 | Yes
 MotorPlate | 1 | Yes
 DiffCase | 2 | No
 BellCranks | 1 | No
