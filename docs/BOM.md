@@ -36,7 +36,7 @@ differential | HSP 02024 |2 | https://aliexpress.com/item/1178316591.html I reco
 front gear | HSP 02030 |1 |
 rear gear | HSP 03015 |1 |e-clip shoud be included
 cvd | HSP 108015 |4 |2 types available; more info on robaki.dev
-5/6mm wheel hex | HSP 122042 |4 | https://s.click.aliexpress.com/e/_DnSrrOX depth depends a bit on the type of wheel. For the recommended wheels 5/6mm.
+5/6/7mm wheel hex | HSP 122042 |4 | https://s.click.aliexpress.com/e/_DnSrrOX depth depends a bit on the type of wheel. For the recommended wheels 5/6mm.
 cups | HSP 02016 |2 |
 servo link | HSP 02012 |1 |
 steering links | HSP 06016 |1 |one pair
@@ -68,8 +68,8 @@ diff cups | HSP 02032 | 4 |
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-wheels | HSP 88005 | 4 | I recommend cheap plastic rims https://aliexpress.com/item/4000537437419.html . They break but are cheap to replace. There's also metal ones https://aliexpress.com/item/4000537479774.html they don't break but will transfer impacts to CVDs which then wobble, hence I recommend the 'weak' plastic rims. There also are fitting Traxxas wheels TRX6792 that are made of stronger plastic and tires are already glued to rim.
-shocks |INJORA Aluminum Shock Absorber 100mm | 4 | https://s.click.aliexpress.com/e/_EQmCy8T comes with two springs per shock, use them all, intertwined
+wheels | HSP 88005 | 4 | I recommend cheap plastic rims https://aliexpress.com/item/4000537437419.html . They break but are cheap to replace. There's also metal ones https://aliexpress.com/item/4000537479774.html they don't break but will transfer impacts to CVDs which then wobble, hence I recommend the 'weak' plastic rims. The previous ones need to be glued manually. Preglued (much better) options: Traxxas wheels TRX6792. Alternatively very cheap set from YSIDO: https://s.click.aliexpress.com/e/_oF5A4wt the wheels are very narrow and the steering angle is very small, to compensate take 7mm wheel hex for front wheels ( https://s.click.aliexpress.com/e/_DnSrrOX ).
+shocks |INJORA Aluminum Shock Absorber 100mm | 4 | https://s.click.aliexpress.com/e/_EQmCy8T comes with two springs per shock, use them both, intertwined
 battery straps |20mm width; 200mm long |2 |max width 25mm
 Steel shafts |⌀5mm steel rod | 2x350mm | https://s.click.aliexpress.com/e/_ooYsAH1 (v1.0 needed 2x190mm + 4x66mm ⌀5mm steel rods)
 silicone oil (front & rear shocks) | 2000 cSt | 20ml | this car's mass is >3kg so heavier oils preferred https://s.click.aliexpress.com/e/_ooUaPnU (very cheap)
@@ -108,4 +108,5 @@ M8 wing nut |  |1 | https://s.click.aliexpress.com/e/_EwzpS4j
 Part | Name | QTY | Notes
 --- | --- | --- | ---
 Worx electric screwdriver | WX242 | 1 | https://aliexpress.com/item/1005006025572712.html 
-Allen bits | H2 | 2 | https://s.click.aliexpress.com/e/_EuJdN3h or https://s.click.aliexpress.com/e/_msWyGcO 
+Allen bits | H2 | 2 | https://s.click.aliexpress.com/e/_EuJdN3h
+Lipo checker | | 1 | https://s.click.aliexpress.com/e/_opcYMvr
