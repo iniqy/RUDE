@@ -39,7 +39,7 @@ cvd | HSP 108015 |4 |2 types available; more info on robaki.dev
 5/6/7mm wheel hex | HSP 122042 |4 | https://s.click.aliexpress.com/e/_DnSrrOX depth depends a bit on the type of wheel. For the recommended wheels 5/6mm.
 cups | HSP 02016 |2 |
 servo link | HSP 02012 |1 |
-steering links | HSP 06016 |1 |one pair
+steering links | HSP 08042 |1 |one pair (06016 also fits)
 drive shaft | HSP 04003 |1 |
 spur gear | HSP 11184 |1 |
 pinion gear | HSP 11184 |1 | 21-29T ⌀3.175/5mm, check shaft of your motor. For weaker motors pick 21T.
