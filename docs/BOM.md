@@ -103,6 +103,43 @@ M8x60 bolt full thread |  |1 | Full Thread! To bolt rear body part to car. https
 M8 flange lock nut |  |1 | https://s.click.aliexpress.com/e/_Ew4tm55
 M8 wing nut |  |1 | https://s.click.aliexpress.com/e/_EwzpS4j
 
+## For center differential
+
+Part | Name | QTY | Notes
+--- | --- | --- | ---
+small bearings | 5x10x4mm | 2pcs | https://s.click.aliexpress.com/e/_oC5hRkd
+M3 Flat Head Screws | M3 FHCS 12mm | 2pcs | https://s.click.aliexpress.com/e/_ontwkaW
+M3 Flat Head Screws | M3 FHCS 16mm | 2pcs | https://s.click.aliexpress.com/e/_ontwkaW
+M3 Thin Square Nuts | DIN 562 | 4pcs |ht. 1.8mm https://s.click.aliexpress.com/e/_mKvxiiA
+dogbone shafts | (sizes depend on configuration but 1x63mm, rear, 1x77mm front at this time) | 2pcs | TBD
+adjustable driveshafts | 75-90mm, 45-55mm | 0-2, 0-1 | TBD - alternative to dogbone shafts
+shaft cup | 0-1 | HSP 02016 needed if using dogbones - not needed if using adjustable driveshafts
+silicone oil | 500K-2M cSt | 50ml | 1-2M is recommended, but feel free to tinker!
+rear diff shaft | 1 | HSP 02030
+
+### DIY Center differential
+
+Part | Name | QTY | Notes
+--- | --- | --- | ---
+M3 Flat Head Screws | M3 FHCS 8mm | 4pcs | https://s.click.aliexpress.com/e/_ontwkaW
+M3 Thin Square Nuts | DIN 562 | 4pcs |ht. 1.8mm https://s.click.aliexpress.com/e/_mKvxiiA
+diff | 1pcs | HSP 02024, if you have spares parts of one, the crown gear and 1-2 diff cups are not needed
+diff shaft | 1-2pcs | HSP 02030 
+steel tubing | 50mm | OD 5mm, 0.2mm wall thickness
+
+### Non-DIY Center differential
+
+2 options, center differential or slipper clutch.
+
+* Center differential is more expensive but less maintenance
+* Splipper clutch is less expensive but requires periodic adjusting for terrain and clutch wear
+
+Part | Name | QTY | Notes
+--- | --- | --- | ---
+Center differential | Traxxas 10760 / 10760X | 1pcs | 10760X has metal case, 10760 has plastic case
+Slipper clutch | Traxxas 6878 | 1pcs | Must use 50T, not compatible with higher tooth count
+motor pinion | mod 0.8 pinion | 1pcs | 19-21T is a good starting point. 32P pinions may also work 
+
 ## Tools
 
 Part | Name | QTY | Notes
