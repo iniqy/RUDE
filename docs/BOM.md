@@ -120,7 +120,7 @@ M3 Flat Head Screws | M3 FHCS 16mm | 2pcs | https://s.click.aliexpress.com/e/_on
 M3 Thin Square Nuts | DIN 562 | 4pcs |ht. 1.8mm https://s.click.aliexpress.com/e/_mKvxiiA
 dogbone shafts | (sizes depend on configuration but 1x63mm, rear, 1x77mm front at this time) | 2pcs | TBD
 adjustable driveshafts | 75-90mm, 45-55mm | 0-2, 0-1 | TBD - alternative to dogbone shafts
-shaft cup | 0-1 | HSP 02016 needed if using dogbones - not needed if using adjustable driveshafts
+shaft cup | 0-1 | HSP 02016 | needed if using dogbones - not needed if using adjustable driveshafts
 silicone oil | 500K-2M cSt | 50ml | 1-2M is recommended, but feel free to tinker!
 rear diff shaft | 1 | HSP 02030
 
@@ -131,15 +131,15 @@ Part | Name | QTY | Notes
 M3 Flat Head Screws | M3 FHCS 8mm | 4pcs | https://s.click.aliexpress.com/e/_ontwkaW
 M3 Thin Square Nuts | DIN 562 | 4pcs |ht. 1.8mm https://s.click.aliexpress.com/e/_mKvxiiA
 diff | 1pcs | HSP 02024, if you have spares parts of one, the crown gear and 1-2 diff cups are not needed
-diff shaft | 1-2pcs | HSP 02030 
+diff shaft | 1-2pcs | HSP 02030 | 2 if using adjustable driveshafts, 1 if using dogbones (can reuse 1 diff cup)
 steel tubing | 50mm | OD 5mm, 0.2mm wall thickness
 
 ### Non-DIY Center differential
 
-2 options, center differential or slipper clutch.
+2 options, center differential or slipper clutch:
 
-* Center differential is more expensive but less maintenance
-* Splipper clutch is less expensive but requires periodic adjusting for terrain and clutch wear
+* Center differential is more expensive but less maintenance.
+* Splipper clutch is less expensive but requires periodic adjusting for terrain and clutch wear.
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
