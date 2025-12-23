@@ -143,7 +143,7 @@ steel tubing | 50mm | OD 5mm, 0.2mm wall thickness
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
-Center differential | Traxxas 10760 / 10760X | 1pcs | 10760X has metal case, 10760 has plastic case
+Center differential | Traxxas 10760 / 10760R | 1pcs | 10760R has aluminum case for better heat dissipation
 Slipper clutch | Traxxas 6878 | 1pcs | Must use 50T, not compatible with higher tooth count
 motor pinion | mod 0.8 pinion | 1pcs | 19-21T is a good starting point. 32P pinions may also work 
 
