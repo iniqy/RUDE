@@ -18,7 +18,9 @@ Choose the Center Diff plate accordingly.
 
 ## Printing guidance
 
-Print in stiff materials. ASA/PC/PC-CF are good choices for motor plates. ASA is a good choice for gear mount (testing is appreciated, PC _should_ probably work)
+Print in stiff materials. ASA/PC/PC-CF are good choices for motor plates. 
+
+Regarding the gear mount, ASA is a good choice for gear mount. Avoid PC does not work as it cracks easily and seems to react to silicone oil, PA-GF/CF may also be a good alternative (needs further testing).
 
 Gear mount needs supports in the center.
 
