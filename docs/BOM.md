@@ -103,7 +103,14 @@ M8x60 bolt full thread |  |1 | Full Thread! To bolt rear body part to car. https
 M8 flange lock nut |  |1 | https://s.click.aliexpress.com/e/_Ew4tm55
 M8 wing nut |  |1 | https://s.click.aliexpress.com/e/_EwzpS4j
 
-## For center differential
+## For classic configuration
+
+Part | Name | QTY | Notes
+--- | --- | --- | ---
+M3 Flat Head Screws | M3 FHCS 10mm | 3pcs | https://s.click.aliexpress.com/e/_ontwkaW
+M3 Thin Square Nuts | DIN 562 | 3pcs |ht. 1.8mm https://s.click.aliexpress.com/e/_mKvxiiA
+
+## For center differential configuration
 
 Part | Name | QTY | Notes
 --- | --- | --- | ---
