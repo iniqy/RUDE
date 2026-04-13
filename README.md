@@ -14,17 +14,21 @@ The most resilient RC car on the planet! More driving and less repairing. This c
 Select your own hardware with the BOM as your guide. All plastic parts can be 3D printed.
 
 
+[Click here for the Bill of Materials and Printing Instructions.](https://docs.google.com/spreadsheets/d/1WngvrndMor4qRpjjS1Nden6RAWPPBa2J9SWaNV3pnVo/edit?usp=sharing)
 
-### 19-10-2024 v1.1 RELEASE
-V1.1 is now included in the STEP files. It has superior performance/handling due to lower center of mass. Shocks can travel a bit further, hopefully resulting in softer body slams after high jumps. It is also more rigid which makes the drivetrain less prone to damage due to acrobatics. See BOM/Printing for more info to upgrade from v1.0.
+[Assembly](docs/Assembly.md). New guide coming soon..
+
+### xx-04-2026 v2.0 RELEASE
+V2.0 has superior handling due to direct steering. It also has a superior drivetrain when you install the optional center differential. Also smaller front arms that make installation of smaller wheels possible. Motorplates have more space for pinion gears. The chassis has been separated into a two-piece print. Almost all printers should be able to print RUDE v2.0.
 
 
+
+Outdated:
 
 [Printing instructions](docs/printing.md)
 
 [Bill Of Materials](docs/BOM.md)
 
-[Assembly](docs/Assembly.md)
 
 
 ### FAQ: What is this car going to cost me?
