@@ -24,7 +24,7 @@ These are in addition to the base BOM (common accross all 3 options):
 * 2 dogbone shafts (sizes depend on configuration but 1x63mm, rear, 1x77mm front at this time), or
 * Adjustable shafts - 75-90mm (0-2), 45-55mm (0-1)
 * 1 shaft cup (for the rear shaft, if using dogbones - not needed if using adjustable driveshafts)
-* Thicker diff oil - 500-1M CST is recommended, but feel free to tinker!
+* Thicker diff oil - 500-2M CST is recommended, but feel free to tinker!
 * 4x M3 square nuts (DIN 562, these can be thicker as the center diff plate is actually a heavily modded motor plate)
 * 1 HSP 02030 (to be used in the rear diff)
 
