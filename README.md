@@ -2,7 +2,7 @@
 
 # Robak Unstoppable Dream Edition
 
-![3](docs/RUDE.jpg)
+![3](RUDE.jpg)
 
 [![Join the Discord](https://discord.com/api/guilds/1180485423299043368/widget.png?style=banner2&v_DATE)](https://discord.gg/Cc8tsbZAE3)
 
@@ -14,9 +14,11 @@ The most resilient RC car on the planet! More driving and less repairing. This c
 
 [Click here for the Bill of Materials and Printing Instructions.](https://docs.google.com/spreadsheets/d/1WngvrndMor4qRpjjS1Nden6RAWPPBa2J9SWaNV3pnVo/edit?usp=sharing)
 
+[Click here for the Assembly Guide.](https://docs.google.com/presentation/d/1uc42ykA9YBD8isIoi1eW3QIydnOAwHwjOqGhsE2rHdI/edit?usp=sharing)
 
 
-### xx-04-2026 v2.0 RELEASE
+
+### xx-05-2026 v2.0 RELEASE
 V2.0 has superior handling due to direct steering. It also offers a superior drivetrain with the optional center differential. In addition it has newly designed front arms that remove play in front wheel alignment and make installation of smaller wheels possible. Motorplates have more space for pinion gears. The chassis can be printed in two pieces so almost all printers should be able to print RUDE v2.0.
 
 
