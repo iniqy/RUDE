@@ -2,24 +2,24 @@
 
 # Robak Unstoppable Dream Edition
 
-![3](RUDE.jpg)
+![3](RUDE.png)
 
 [![Join the Discord](https://discord.com/api/guilds/1180485423299043368/widget.png?style=banner2&v_DATE)](https://discord.gg/Cc8tsbZAE3)
 
 
-An open-source 3D Printed RC car. RUDE v1.0 was a heavily modified version of [Robak v2.2](https://github.com/robaki-dev/robak/).
+An open-source 3D Printed RC car. RUDE **v1.0** was a heavily modified version of [Robak v2.2](https://github.com/robaki-dev/robak/).
 
 The most resilient RC car on the planet! More driving and less repairing. This car only stops when your battery is empty. If you break this car after flying out of your apartment window I failed.
 
 
-[Click here for the Bill of Materials and Printing Instructions.](https://docs.google.com/spreadsheets/d/1WngvrndMor4qRpjjS1Nden6RAWPPBa2J9SWaNV3pnVo/edit?usp=sharing)
+[Bill of Materials and Printing Instructions](https://docs.google.com/spreadsheets/d/1WngvrndMor4qRpjjS1Nden6RAWPPBa2J9SWaNV3pnVo/edit?usp=sharing)
 
-[Click here for the Assembly Guide.](https://docs.google.com/presentation/d/1uc42ykA9YBD8isIoi1eW3QIydnOAwHwjOqGhsE2rHdI/edit?usp=sharing)
+[Assembly Guide](https://docs.google.com/presentation/d/1uc42ykA9YBD8isIoi1eW3QIydnOAwHwjOqGhsE2rHdI/edit?usp=sharing)
 
 
 
-### xx-05-2026 v2.0 RELEASE
-V2.0 has superior handling due to direct steering. It also offers a superior drivetrain with the optional center differential. In addition it has newly designed front arms that remove play in front wheel alignment and make installation of smaller wheels possible. Motorplates have more space for pinion gears. The chassis can be printed in two pieces so almost all printers should be able to print RUDE v2.0.
+## 4th of May 2026 v2.0 RELEASE
+V2.0 has superior handling due to direct steering (see last v1.1 review below). It also offers a superior drivetrain with the optional center differential. In addition it has newly designed front arms that remove play in front wheel alignment and make installation of smaller wheels possible. Motorplates have more space for pinion gears. The chassis can be printed in two pieces so most printers should be able to print RUDE v2.0.
 
 
 
@@ -33,3 +33,22 @@ Also maintenance cost is much lower, since a commercial crown gear costs around 
 ### FAQ: Is this car child friendly?
 
 No, this toy is an absolute weapon.
+
+
+## v1.1 reviews
+
+> "10/10"
+
+> "this car is freakin awesome"
+
+> "Super fun project"
+
+> "I just could not bring myself to buy him a crappy off the shelf RC car for Christmas. So he got a RUDE"
+
+> "Just can’t stop driving it!"
+
+> "it is a beast"
+
+> "behaves like a jelly bear"
+
+Join discord for more...
