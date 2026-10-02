@@ -16,6 +16,7 @@ The most resilient RC car on the planet! More driving and less repairing. This v
 
 [Assembly Guide](https://docs.google.com/presentation/d/1uc42ykA9YBD8isIoi1eW3QIydnOAwHwjOqGhsE2rHdI/edit?usp=sharing)
 
+[Model in CAD (Onshape)](https://cad.onshape.com/documents/217738c328698a5c23f3d09a/w/c96cb8ad98f287f59ddd623a/e/1a525c4f4641eb68ca207103?renderMode=0&uiState=6abf79b5775cfac698ec1bf2) from @ambrmart
 
 
 ## 4th of May 2026 v2.0 RELEASE
